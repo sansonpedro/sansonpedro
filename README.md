@@ -10,7 +10,7 @@
 
 Sou estudante do curso **Aprendizagem Industrial - Programador de Sistemas da Informação** pelo **Grupo Malwee**. Tenho 16 anos e estou em constante evolução na área de desenvolvimento de sistemas, com foco em tecnologias modernas e boas práticas de código.
 
-Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web** e **programação com Python**, com interesse especial em frameworks modernos como **React** e **Next.js**.
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web** e **programação com Python**, com interesse especial em frameworks modernos como **React JSX** e **Next.js**.
 
 ---
 
@@ -28,8 +28,8 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web** e **
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosanson&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosanson&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sansonpedro&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansonpedro&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
@@ -45,7 +45,7 @@ Atualmente estou aprofundando meus conhecimentos em **desenvolvimento web** e **
 
 ### 🌐 Contato
 
-- [LinkedIn](https://br.linkedin.com/in/pedro-henrique-sanson-124568354)   
+- LinkedIn: (https://br.linkedin.com/in/pedro-henrique-sanson-124568354)   
 - E-mail: pedrosanson@email.com 
 
 ---
