@@ -2,20 +2,20 @@
 
 <p align="center">
   Estudante de Programação • Aprendiz Industrial no Grupo Malwee<br/>
-  Desenvolvedor em formação com foco em tecnologias web modernas e boas práticas de código
+  Explorando o mundo do desenvolvimento web e aprendendo na prática
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou estudante do curso **Aprendizagem Industrial - Programador de Sistemas da Informação**, onde estou desenvolvendo uma base sólida em lógica de programação, estrutura de dados e desenvolvimento de sistemas.
+Sou aluno do curso **Aprendizagem Industrial - Programador de Sistemas da Informação** e estou começando minha jornada na programação.
 
-Tenho interesse em tecnologias web modernas, com foco em escrever código limpo, seguir boas práticas e aprender de forma contínua. Busco evoluir diariamente como desenvolvedor e como profissional.
+Gosto de entender como tudo funciona por trás do código, aprender fazendo e ver minha evolução com o tempo. Curiosidade e prática me movem.
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo
+### 🚀 Estudando no momento
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
