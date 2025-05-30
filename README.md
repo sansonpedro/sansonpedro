@@ -1,10 +1,26 @@
-<h1 align="center">Pedro Henrique Sanson</h1>
+<h1 align="center">Pedro Henrique Sanson 👨‍💻</h1>
 
-<p align="center">Aprendiz de programação, explorando o mundo do desenvolvimento web.</p>
+<p align="center">👋 Aprendiz de programação, explorando o mundo do desenvolvimento web com curiosidade e dedicação.</p>
 
 ---
 
 <div align="center">
+  <h3>Hi There! 👋</h3>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://seusite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-6A1B9A?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+  <a href="mailto:contato@fernandakipper.com">
+    <img src="https://img.shields.io/badge/Email-9146FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🚀 Tecnologias que estou aprendendo:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>&nbsp;
