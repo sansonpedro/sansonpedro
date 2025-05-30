@@ -1,9 +1,10 @@
-<h1 align="center">Pedro Henrique Sanson 👨‍💻</h1>
+<h1 align="center">Pedro Henrique Sanson</h1>
 
-<p align="center">👋 Aprendiz de programação, explorando o mundo do desenvolvimento web com curiosidade e dedicação.</p>
+<p align="center">Aprendiz de programação, explorando o mundo do desenvolvimento web.</p>
+
+---
 
 <div align="center">
-  <h3>🚀 Tecnologias que estou aprendendo:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" title="CSS3"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" title="JavaScript"/>&nbsp;
