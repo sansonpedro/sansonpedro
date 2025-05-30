@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Pedro Henrique Sanson</h1>
 
 <p align="center">
-  Estudante de Programação | Aprendiz Industrial no Grupo Malwee<br/>
+  Estudante de Programação | Aprendiz Industrial<br/>
   Desenvolvedor em formação focado em tecnologias web e boas práticas
 </p>
 
@@ -9,8 +9,8 @@
 
 ### 🧠 Sobre mim
 
-Sou aluno do curso **Aprendizagem Industrial - Programador de Sistemas da Informação** pelo **Grupo Malwee**.  
-Tenho 16 anos e estou construindo uma base sólida em desenvolvimento de sistemas, com foco em tecnologias modernas, código limpo e aprendizado contínuo.
+Sou aluno do curso **Aprendizagem Industrial - Programador de Sistemas da Informação** 
+Estou construindo uma base sólida em desenvolvimento de sistemas, com foco em tecnologias modernas, código limpo e aprendizado contínuo.
 
 ---
 
