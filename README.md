@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Henrique Sanson</h1>
 
 <p align="center">Arendizagem Industrial em Programador de sistemas de informação</p>
-<p align="center">Explorandoo mundo do desenvolvimento web.</p>
+<p align="center">Explorando mundo do desenvolvimento web.</p>
 
 ---
 
