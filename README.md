@@ -1,6 +1,6 @@
 <h1 align="center">Pedro Henrique Sanson</h1>
 
-<p align="center">Desenvolvedor Frontend</p>
+<p align="center">Frontend Developer</p>
 
 ---
 
