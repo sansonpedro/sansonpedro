@@ -1,12 +1,8 @@
 <h1 align="center">Pedro Henrique Sanson</h1>
 
-<p align="center">
-  Frontend Developer focused on building modern, responsive web applications using React, TypeScript, and Tailwind CSS.
-</p>
+<p align="center">Frontend Developer</p>
 
 ---
-
-<h3 align="center">Technologies & Tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" title="HTML5"/>&nbsp;
@@ -20,9 +16,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" title="GitHub"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VS Code"/>
 </div>
-
----
-
-<p align="center">
-  This profile showcases study projects and collaborative works focused on frontend development, UI creation, API integration, and data visualization.
-</p>
