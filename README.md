@@ -62,8 +62,8 @@ Currently sharpening my skills in **full-stack development**, bridging modern fr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sansonpedro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansonpedro&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
