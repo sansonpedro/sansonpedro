@@ -9,7 +9,7 @@
 ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-### Frontend Developer · React · Next.js · Tailwind CSS
+### Frontend Engineer · React · Next.js · Tailwind CSS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-sanson-124568354/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanson.pedroh@gmail.com)
@@ -20,14 +20,14 @@
 
 ## 👋 About Me
 
-I'm a **Frontend Developer** focused on building fast, accessible, and visually polished web interfaces. I care deeply about user experience and clean code — the kind that's actually enjoyable to maintain.
+I'm a **Frontend Engineer** focused on building fast, accessible, and visually polished web interfaces. I care deeply about user experience and clean code — the kind that's actually enjoyable to maintain.
 
 Currently sharpening my skills in **full-stack development**, bridging modern frontend tooling with solid backend fundamentals like Docker, MySQL, and REST APIs.
 
-- 🔭 Building production-grade projects with **Next.js + Tailwind CSS**
-- 🛠️ Comfortable working across the stack — from UI components to database queries
-- 📍 Based in **Brazil**, open to remote opportunities
-- 🌱 Always learning — currently diving deeper into **performance optimization** and **UI/UX patterns**
+-  Building production-grade projects with **Next.js + Tailwind CSS**
+-  Comfortable working across the stack — from UI components to database queries
+-  Based in **Brazil**, open to remote opportunities
+-  Always learning — currently diving deeper into **performance optimization** and **UI/UX patterns**
 
 ---
 
