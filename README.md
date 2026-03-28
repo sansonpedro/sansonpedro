@@ -65,9 +65,6 @@ Currently sharpening my skills in **full-stack development**, bridging modern fr
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansonpedro&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sansonpedro&theme=github-dark&hide_border=true" />
-</div>
 
 ---
 
