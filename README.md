@@ -16,7 +16,7 @@
 
 Frontend Engineer with hands-on experience building **production-grade web applications** using **React**, **Next.js**, and **TypeScript**. Specialized in **component architecture**, **performance optimization**, and **accessible UI design**.
 
-Currently working at **Grupo Malwee** and building side projects that solve real problems. I care about code that is clean, maintainable, and genuinely useful — including integrating AI APIs to create smarter user experiences.
+Currently working at **Grupo Malwee** and building side projects that solve real problems — including AI-powered tools using the Claude API.
 
 - 🔭 Currently building **CodeNow** — an AI-powered coding tutor with Next.js 15 + Claude API
 - 🧠 Deepening expertise in **web performance**, **Core Web Vitals**, and **UI/UX patterns**
@@ -45,50 +45,40 @@ Currently working at **Grupo Malwee** and building side projects that solve real
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [CodeNow](https://github.com/sansonpedro/codenow) — AI-Powered Coding Tutor
+<div align="center">
+
+[![CodeNow](https://github-readme-stats.vercel.app/api/pin/?username=sansonpedro&repo=codenow&theme=github_dark_dimmed&hide_border=true&show_owner=false)](https://github.com/sansonpedro/codenow)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=sansonpedro&repo=portfolio&theme=github_dark_dimmed&hide_border=true&show_owner=false)](https://github.com/sansonpedro/portfolio)
+
+[![Site-Refri-Js](https://github-readme-stats.vercel.app/api/pin/?username=sansonpedro&repo=Site-Refri-Js&theme=github_dark_dimmed&hide_border=true&show_owner=false)](https://github.com/sansonpedro/Site-Refri-Js)
+
+</div>
+
+### About CodeNow
 > **Next.js 15 · TypeScript · Tailwind CSS · shadcn/ui · Claude API (Anthropic)**
 
-A web platform that teaches developers to *think*, not memorize. Instead of giving answers, the AI tutor asks the right questions until you arrive at the solution yourself — building real understanding.
+A platform that teaches developers to *think*, not memorize. The AI tutor uses the Socratic method — asking the right questions until you arrive at the solution yourself, building real understanding instead of dependency.
 
-- Integrated **Anthropic's Claude API** for Socratic-method AI tutoring
+- Integrated **Anthropic's Claude API** for intelligent, context-aware tutoring
 - Built with **Next.js 15 App Router**, TypeScript strict mode, and pnpm workspaces
-- Component-driven UI with **shadcn/ui** and **Phosphor Icons**
-- [View Project →](https://github.com/sansonpedro/codenow)
-
----
-
-### [Portfolio](https://github.com/sansonpedro/portfolio) — Personal Portfolio
-> **Next.js · TypeScript · Tailwind CSS**
-
-Personal portfolio showcasing projects and skills. Deployed on Vercel.
-
-- ⭐ 3 stars on GitHub
-- [Live Site →](https://sansondev.vercel.app) · [Source Code →](https://github.com/sansonpedro/portfolio)
-
----
-
-### [Site-Refri-Js](https://github.com/sansonpedro/Site-Refri-Js) — Interactive Carousel
-> **JavaScript · CSS · HTML5**
-
-Carousel project built to practice DOM manipulation, CSS animations, and responsive layout techniques. Clean vanilla JS implementation with no dependencies.
-
-- ⭐ 1 star on GitHub
-- [View Project →](https://github.com/sansonpedro/Site-Refri-Js)
+- Component-driven UI with **shadcn/ui** + **Phosphor Icons**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sansonpedro&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansonpedro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sansonpedro&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansonpedro&layout=donut&theme=github_dark_dimmed&hide_border=true&langs_count=6" />
+
 </div>
 
 ---
