@@ -64,7 +64,7 @@ Plataforma que ensina devs a **pensar**, não a decorar. O tutor IA usa o métod
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <div align="center">
 
