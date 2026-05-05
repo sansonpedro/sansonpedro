@@ -18,7 +18,7 @@ Frontend Engineer com experiência construindo **aplicações web de produção*
 
 Trabalhando atualmente no **Grupo Malwee** e construindo projetos que resolvem problemas reais — incluindo ferramentas com IA usando a Claude API.
 
-- 🔭 Construindo o **CodeNow** — tutor de programação com IA usando Next.js 15 + Claude API
+- 🔭 Construindo o **CodeNow** — tutor de programação com IA usando Next.js 16 + Claude API
 - 🧠 Aprofundando em **Web Performance**, **Core Web Vitals** e **UI/UX patterns**
 - 🌍 Santa Catarina, Brasil — aberto a oportunidades **remotas**
 - 🤝 Disponível para posições full-time e projetos freelance
@@ -102,7 +102,6 @@ Plataforma que ensina devs a **pensar**, não a decorar. O tutor IA usa o métod
     srcset="https://streak-stats.demolab.com/?user=sansonpedro&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://streak-stats.demolab.com/?user=sansonpedro&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </picture>
 
 </div>
