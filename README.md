@@ -54,7 +54,7 @@ Trabalhando atualmente no **Grupo Malwee** e construindo projetos que resolvem p
 </div>
 
 ### 🤖 CodeNow — AI Coding Tutor
-> **Next.js 15 · TypeScript · Tailwind CSS · shadcn/ui · Claude API (Anthropic)**
+> **Next.js 16 · TypeScript · Tailwind CSS · shadcn/ui · Claude API (Anthropic)**
 
 Plataforma que ensina devs a **pensar**, não a decorar. O tutor IA usa o método socrático — faz as perguntas certas até você chegar na solução sozinho, construindo entendimento real ao invés de dependência.
 
