@@ -88,7 +88,6 @@ Plataforma que ensina devs a **pensar**, não a decorar. O tutor IA usa o métod
     srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sansonpedro&layout=donut&theme=default&hide_border=true&langs_count=6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sansonpedro&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
 </picture>
 
 <br/>
