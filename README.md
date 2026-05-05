@@ -37,7 +37,7 @@ Trabalhando atualmente no **Grupo Malwee** e construindo projetos que resolvem p
 
 </div>
 
-**Frontend:** React · Next.js 14/15 · TypeScript · JavaScript (ES2022+) · Tailwind CSS · shadcn/ui · HTML5 · CSS3
+**Frontend:** React · Next.js 16 · TypeScript · JavaScript (ES2022+) · Tailwind CSS · shadcn/ui · HTML5 · CSS3
 
 **Práticas:** Component architecture · Responsive design · Web Accessibility (WCAG 2.1) · Performance optimization · React Hooks · State management · AI API integration
 
