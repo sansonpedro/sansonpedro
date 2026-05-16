@@ -16,7 +16,7 @@
 
 Frontend Engineer com experiência construindo **aplicações web de produção** com **React**, **Next.js** e **TypeScript**. Especializado em **arquitetura de componentes**, **otimização de performance** e **UI acessível**.
 
-Trabalhando atualmente no **Grupo Malwee** e construindo projetos que resolvem problemas reais — incluindo ferramentas com IA usando a Claude API.
+Construindo projetos que resolvem problemas reais.
 
 - 🔭 Construindo o **CodeNow** — tutor de programação com IA usando Next.js 16 + Claude API
 - 🧠 Aprofundando em **Web Performance**, **Core Web Vitals** e **UI/UX patterns**
