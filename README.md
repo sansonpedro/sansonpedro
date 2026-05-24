@@ -58,7 +58,6 @@ Construindo projetos que resolvem problemas reais.
 
 Plataforma que ensina devs a **pensar**, não a decorar. O tutor IA usa o método socrático — faz as perguntas certas até você chegar na solução sozinho, construindo entendimento real ao invés de dependência.
 
-- Integração com a **Claude API da Anthropic** para tutoria inteligente e contextual
 - Construído com **Next.js 16 App Router**, TypeScript strict mode e pnpm workspaces
 - UI orientada a componentes com **shadcn/ui** + **Phosphor Icons**
 
