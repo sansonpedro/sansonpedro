@@ -18,7 +18,7 @@ Frontend Engineer com experiência construindo **aplicações web de produção*
 
 Construindo projetos que resolvem problemas reais.
 
-- 🔭 Construindo o **CodeNow** — tutor de programação com IA usando Next.js 16 + Claude API
+- 🔭 Construindo o **CodeNow** — tutor de programação com IA usando Next.js 16
 - 🧠 Aprofundando em **Web Performance**, **Core Web Vitals** e **UI/UX patterns**
 - 🌍 Santa Catarina, Brasil — aberto a oportunidades **remotas**
 - 🤝 Disponível para posições full-time e projetos freelance
