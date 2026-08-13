@@ -14,7 +14,7 @@ Frontend developer working with React and Next.js.
 ---
 
 ### Building
-**[CodeNow](https://github.com/sansonpedro/codenow)** an AI coding tutor that teaches through questions instead of answers, so people actually learn instead of copy-pasting. Built with Next.js 16, TypeScript, and the Claude API.
+**[CodeNow](https://github.com/sansonpedro/codenow)** an AI coding tutor that teaches through questions instead of answers, so people actually learn instead of copy-pasting. Built with Next.js 16, TypeScript.
 
 ### Stack
 <div align="center">
